@@ -67,7 +67,7 @@ Note: the world wide web is not the internet, but it happens to use the internet
   * Necessary that we can **locate** where they are in the entire web
   * Need a **consistent** way to identify and access each resource
   * URL - uniformed resource locator
-  * ...
+    * Provides us with a way of specifying the location of a web resource
 * ...and linked together
   * Resources link to other resources; allows us to easily discover the web
 
@@ -112,8 +112,9 @@ Just because it looks like a path to some file in a file system, doesn't mean it
 Ports
 
 * Every process on a computer that uses the internet is assigned a port \(e.g., a TCP or UDP port\)
-* Server process that listens on TCP 
-* ...
+* Server process that listens for HTTP requests usually uses port 80
+
+![](.gitbook/assets/image%20%282%29.png)
 
 HTTP: "Stateless" Protocol
 
