@@ -26,6 +26,8 @@ console.log(a)
 a = 3; //definition executed later
 ```
 
+JavaScript supports overriding not overloading, meaning, that if you define **two functions** with the **same name**, the last one defined will override the previously defined version and every time a call will be made to the **function**, the last defined one will get executed.
+
 For Loops
 
 ```text
