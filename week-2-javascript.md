@@ -12,6 +12,7 @@ We can declare variables using the **var** keyword which gives the variables hav
 #### Hoisting
 
 * Weird things happen \(e.g., Not getting an error when accessing variables/calling f before definition\)
+* In JavaScript, a variable can be used before it is declared, this is because JavaScript's default behaviour is moving all declarations to the top of the current scope \(to the top of the current script or the current function\)
 * All var variables and function declarations are hoisted up to the top of their function scope \(or global scope if not in function\)
   * variable declaration stays in place
 * var declarations and definitions are separate
@@ -128,5 +129,5 @@ const a = [1, 2, "hello"];
 * Context-dependent
   * Values of this is not obvious from reading function definition
   * Unknown until we call it
-* Can be changed with bind\(\), call\(\)
+* Can be changed with bind\(\), call\(\), and apply\(\)
 

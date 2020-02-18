@@ -87,9 +87,9 @@ CSS \(Cascading Style Sheets\)
 * Cascading: how we style a web page has priority rules
 * CSS files are simply a set of rules to style different parts of a web page
 
-![Cascade: the order of precedence for rules on a selector](.gitbook/assets/image%20%287%29.png)
+![Cascade: the order of precedence for rules on a selector](.gitbook/assets/image%20%285%29.png)
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%281%29.png)
 
 Some common properties that we can change:
 
@@ -192,7 +192,7 @@ Size and Position: CSS Box Model
 * All HTML elements are considered 'boxes' by CSS
 * Element size and position determined by values of the box model
 
-![CSS Box Model: Size](.gitbook/assets/image%20%286%29.png)
+![CSS Box Model: Size](.gitbook/assets/image%20%282%29.png)
 
 All size elements are properties in CSS
 

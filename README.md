@@ -38,7 +38,7 @@ TCP \(Transport Control Protocol\)
 
 3-Way Handshake
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 1. Client: Send a SYN packet
 2. Server: Replies with a SYN-ACK
@@ -114,7 +114,7 @@ Ports
 * Every process on a computer that uses the internet is assigned a port \(e.g., a TCP or UDP port\)
 * Server process that listens for HTTP requests usually uses port 80
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 HTTP: "Stateless" Protocol
 
